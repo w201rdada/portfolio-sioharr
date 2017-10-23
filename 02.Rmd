@@ -13,18 +13,18 @@ Employees today can expect to be a part of dozens of teams over their career.  W
 
 ## UC Berkeley to the Rescue
 
-The UC Berkeley Data Science program offers us the chance to work with peers from a variety of backgrounds that can offer us insights into our communication style and effectiveness if we can harness that feedback in a productive way. After every group project in every class, students will be required to submit results to an anonymous survey for each of their team members.  At the mid-term, compiled results will be shared.  These surveys will not be used in the grading process.  They are mereley a tool to make the entire cohort more effective at working with people from a range of backgrounds.  Here is the list of questions:
+The UC Berkeley Data Science program offers us the chance to work with peers from a variety of backgrounds that can offer us insights into our communication style and effectiveness if we can harness that feedback in a productive way. After every group project in every class, students will be required to submit results to an anonymous survey for each of their team members.  At the mid-term and end of term, compiled results will be shared.  These surveys will not be used in the grading process.  They are mereley a tool to make the entire cohort more effective at working with people from a range of backgrounds.  Here is the list of questions:
 
-Project Team:
+Project Team.    Please response on a scale of 1 (Strongly Disagree) to 5 (Strongly Agree).
 1.  Did the team have the adequate skills to complete the project?
 2.  Was the work evenly distributed?
-1.  Did all team members contribute to the discussion equally?
-2.  Did you personally feel safe to brainstorm ideas without judgment?
-1.  Did we produce a quality product? (scale 1:5)
-2.  Would you want to work with this particular team again?
+3.  Did all team members contribute to the discussion equally?
+4.  Did you personally feel safe to brainstorm ideas without judgment?
+5.  Did we produce a quality product? (scale 1:5)
+6.  Would you want to work with this particular team again?
 
 
-Individual.  Please response on a scale of 1 (Strongly Disagree) to 5 (Strongly Agree)
+Individual.  Please response on a scale of 1 (Strongly Disagree) to 5 (Strongly Agree).
 1.  Did John Smith contribute equally to the project?
 2.  Did John Smith have the skills to complete the project?
 3.  Did John Smith speak more (5) or less (1) than others?  (Score will actually be absolute distance from 3)
@@ -33,7 +33,8 @@ Individual.  Please response on a scale of 1 (Strongly Disagree) to 5 (Strongly 
 6.  Would you like to work with John Smith again?
 7.  Would you seek out John Smith at the immersion?
 
-Any additional Feedback:  (Free form text box)
+Any Additional Feedback:  (Free form text box)
+
 
 
 A graph would go here.  
@@ -43,4 +44,4 @@ Relative to class
 
 ## Increased Self Awareness, Better Teams
 
-Working well in teams is a necessary skill set for any data scientist.  This program gives us the opportunity to work with a variety of professionals from various backgrounds in a safe environment.  
+Working well in teams is a necessary skill set for any data scientist.  This program gives us the opportunity to work with a variety of professionals from various backgrounds in a safe environment.  The opportunity to get valuable insights from a variety of teammates will help us become more effective at working with different types of people.  Having a consisent set of questions to answer about each other and consider on new project endeavors will help us understand trends over time and experiement with how to calibrate some of our natural tendencies.    
