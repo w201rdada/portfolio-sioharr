@@ -11,9 +11,9 @@ Survey
 
 Employees today can expect to be a part of dozens of teams over their career.  What makes a team effective?  Skills?  Work Ethic?  Interpersonal skills?  As the world becomes increasingly connected, face to face communication decrease and the ability to always perceive non-verbal quees becomes more challenging.  Peers are often the best sources of feedback for employees, but it is sometimes challenging to offer candid feedback to a peer that you must continue working with and may even geniunely like.  
 
-## 
+## UC Berkeley to the Rescue
 
-The UC Berkeley Data Science program offers us the chance to work with peers from a variety of backgrounds that can offer us insights into our communication style and effectiveness if we can harness that feedback in a productive way. After every group project, students will be required to submit results to an anonymous survey for each of their team members.  At the mid-term, compiled results will be shared.  These surveys will not be used in the grading process.  They are mereley a tool to make the entire cohort more effective at working with people from a range of backgrounds.  Here is the list of questions:
+The UC Berkeley Data Science program offers us the chance to work with peers from a variety of backgrounds that can offer us insights into our communication style and effectiveness if we can harness that feedback in a productive way. After every group project in every class, students will be required to submit results to an anonymous survey for each of their team members.  At the mid-term, compiled results will be shared.  These surveys will not be used in the grading process.  They are mereley a tool to make the entire cohort more effective at working with people from a range of backgrounds.  Here is the list of questions:
 
 Project Team:
 1.  Did the team have the adequate skills to complete the project?
