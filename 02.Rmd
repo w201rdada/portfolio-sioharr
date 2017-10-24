@@ -9,13 +9,13 @@ Survey
 
 ## Giving Feedback is Hard
 
-Employees today can expect to be a part of dozens of teams over their career.  What makes a team effective?  Skills?  Work Ethic?  Interpersonal skills?  As the world becomes increasingly connected, face to face communication decrease and the ability to always perceive non-verbal quees becomes more challenging.  Peers are often the best sources of feedback for employees, but it is sometimes challenging to offer candid feedback to a peer that you must continue working with and may even geniunely like.  
+Employees today can expect to be a part of dozens of teams over their career.  What makes a team effective?  Skills?  Work Ethic?  Interpersonal skills?  As the world becomes increasingly connected, face to face communication decreases and the ability to perceive non-verbal ques becomes more challenging.  Peers are often the best sources of feedback for employees, but it is sometimes challenging to offer candid feedback to a peer that you must continue working with and may even genuinely like.  
 
-## UC Berkeley to the Rescue
+## UC Berkeley to the Rescue?
 
-The UC Berkeley Data Science program offers students the chance to work with peers from a variety of backgrounds that can offer insights into communication styles and effectiveness if that feedback is harnessed in a productive way. After every group project in every class, students will be required to submit results to an anonymous survey for each of their team members.  At the mid-term and end of term, compiled results will be shared.  These surveys will not be used in the grading process.  They are mereley a tool to make the entire cohort more effective at working with people from a range of backgrounds.  Here is the list of questions that will be included in the survey:
+This Big Idea proposes that the UC Berkeley Data Science program can not only transform students into data scientists, but also make them more effective team members.  The school already requires students to work with peers from a variety of backgrounds.  These experiences can offer insights into communication styles and effectiveness if feedback from teammates is harnessed in a productive way. After every group project in every class, students will be required to submit results to an anonymous survey for each of their team members.  At the mid-term and end of term, compiled results will be shared.  These surveys will not be used in the grading process.  They are mereley a tool to make the entire cohort more effective at working with people from a range of backgrounds.  Here is the list of questions that will be included in the survey:
 
-Project Team.    Please response on a scale of 1 (Strongly Disagree) to 5 (Strongly Agree).
+Project Team.  Please response on a scale of 1 (Strongly Disagree) to 5 (Strongly Agree).
 1.  Did the team have the adequate skills to complete the project?
 2.  Was the work evenly distributed?
 3.  Did all team members contribute to the discussion equally?
@@ -45,4 +45,5 @@ Here are some example output graphs:
 
 ## Increased Self Awareness, Better Teams, Better Output
 
-Working well in teams is a necessary skill set for any data scientist.  This program gives us the opportunity to work with a variety of professionals from various backgrounds in a safe environment.  The opportunity to get valuable insights from a variety of teammates will help us become more effective at working with different types of people.  Having a consisent set of questions to answer about each other and consider on new project endeavors will help us understand trends over time and experiement with how to calibrate some of our natural tendencies.    
+Working well in teams is a necessary skill set for any data scientist.  This program gives students the opportunity to develop and refine their team skills in a safe environment.  The opportunity to get valuable insights from a variety of teammates will help students become more effective at working with different types of people.  Having a consistent set of questions to answer about teammates and to personally consider on new project endeavors will help students understand trends over time and experiment with how to produce the best results with a variety of teams.
+
