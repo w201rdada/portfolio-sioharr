@@ -1,4 +1,4 @@
-# There is no "I" in team.
+ There is no "I" in team.
 
 #### Keywords
 
@@ -13,7 +13,7 @@ Employees today can expect to be a part of dozens of teams over their career.  W
 
 ## UC Berkeley to the Rescue
 
-The UC Berkeley Data Science program offers us the chance to work with peers from a variety of backgrounds that can offer us insights into our communication style and effectiveness if we can harness that feedback in a productive way. After every group project in every class, students will be required to submit results to an anonymous survey for each of their team members.  At the mid-term and end of term, compiled results will be shared.  These surveys will not be used in the grading process.  They are mereley a tool to make the entire cohort more effective at working with people from a range of backgrounds.  Here is the list of questions:
+The UC Berkeley Data Science program offers students the chance to work with peers from a variety of backgrounds that can offer insights into communication styles and effectiveness if that feedback is harnessed in a productive way. After every group project in every class, students will be required to submit results to an anonymous survey for each of their team members.  At the mid-term and end of term, compiled results will be shared.  These surveys will not be used in the grading process.  They are mereley a tool to make the entire cohort more effective at working with people from a range of backgrounds.  Here is the list of questions that will be included in the survey:
 
 Project Team.    Please response on a scale of 1 (Strongly Disagree) to 5 (Strongly Agree).
 1.  Did the team have the adequate skills to complete the project?
@@ -43,12 +43,6 @@ Here are some example output graphs:
 
 
 
-
-
-
-
-
-
-## Increased Self Awareness, Better Teams
+## Increased Self Awareness, Better Teams, Better Output
 
 Working well in teams is a necessary skill set for any data scientist.  This program gives us the opportunity to work with a variety of professionals from various backgrounds in a safe environment.  The opportunity to get valuable insights from a variety of teammates will help us become more effective at working with different types of people.  Having a consisent set of questions to answer about each other and consider on new project endeavors will help us understand trends over time and experiement with how to calibrate some of our natural tendencies.    
