@@ -1,4 +1,4 @@
- There is no "I" in team.
+# There is no "I" in team.
 
 #### Keywords
 
@@ -35,6 +35,12 @@ Individual.  Please response on a scale of 1 (Strongly Disagree) to 5 (Strongly 
 8.  Any Additional Feedback:  (Free form text box)
 
 Here are some example output graphs:
+![Current](https://github.com/w201rdada/portfolio-sioharr/blob/master/img/Current.png)
+
+![Trends within a Class](https://github.com/w201rdada/portfolio-sioharr/blob/master/img/Semester.png)
+
+![Trends Over Program](https://github.com/w201rdada/portfolio-sioharr/blob/master/img/EntireProgram.png)
+
 
 
 
