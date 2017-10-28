@@ -1,7 +1,6 @@
-# None of us is as smart as all of us.  Ken Blanchard
+# None of us is as smart as all of us.  
 
-#### Keywords
-
+## Keywords
 Team Work
 Feedback
 Survey
@@ -46,4 +45,7 @@ Here are some example output graphs:
 ## Increased Self Awareness, Better Teams, Better Output
 
 Working well in teams is a necessary skill set for any data scientist.  This program gives students the opportunity to develop and refine their team skills in a safe environment.  The opportunity to get valuable insights from a variety of teammates will help students become more effective at working with different types of people.  Having a consistent set of questions to answer about teammates and to personally consider on new project endeavors will help students understand trends over time and experiment with how to produce the best results with a variety of teams.
+
+
+Note: Title credit goes to Ken Blanchard
 
