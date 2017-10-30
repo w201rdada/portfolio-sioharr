@@ -30,8 +30,7 @@ Individual.  Please response on a scale of 1 (Strongly Disagree) to 5 (Strongly 
 4.  Is John Smith a strong communicator?
 5.  Did John Smith encourage (5) or discourage (0) your leads?
 6.  Would you like to work with John Smith again?
-7.  Would you seek out John Smith at the immersion?
-8.  Any Additional Feedback:  (Free form text box)
+7.  Any Additional Feedback:  (Free form text box)
 
 Here are some example output graphs:
 ![Current](https://github.com/w201rdada/portfolio-sioharr/blob/master/img/Current2.png)
