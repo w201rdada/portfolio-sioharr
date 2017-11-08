@@ -1,4 +1,4 @@
-# "Aristotle Applied" 
+ an# "Aristotle Applied" 
 
 ## Keywords
 Team Work
@@ -45,6 +45,6 @@ Here are some example output graphs:
 
 ## Increased Self Awareness, Better Teams, Better Output
 
-Working well in teams is a necessary skill set for any data scientist.  This program gives students the opportunity to develop and refine their team skills in a safe environment.  The opportunity to get valuable insights from a variety of teammates will help students become more effective at working with different types of people.  Having a consistent set of questions to answer about teammates and to personally consider on new project endeavors will help students understand trends over time and experiment with how to produce the best results with a variety of teams.  Futhermore, over time as the amount of data increaases, the full dataset could become interesting in better understanding how diverse teams thrive.  These insights could be used to adjust admissions qualities or curriculum enhancements.  Keeping the survey consistent over time will also let enable the school to understand if some adjustments are effective.    
+Working well in teams is a necessary skill set for any data scientist.  This program gives students the opportunity to develop and refine their team skills in a safe environment.  The opportunity to get valuable insights from a variety of teammates will help students become more effective at working with different types of people and more open/resilient to constructive feedback.  Having a consistent set of questions to answer about teammates and to personally consider on new project endeavors will help students understand trends over time and experiment with how to produce the best results with a variety of teams.  Futhermore, over time as the amount of data increaases, the full dataset could become interesting in better understanding how diverse teams thrive.  These insights could be used to adjust admissions qualities or curriculum enhancements.  Keeping the survey consistent over time will also let enable the school to understand if some adjustments are effective.    
 
 https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html
