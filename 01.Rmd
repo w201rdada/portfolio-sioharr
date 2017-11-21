@@ -1,5 +1,5 @@
-# Reviewers Like Me 
-#### Amazon, Review Relevancy,
+ # Reviewers Like Me 
+#### Amazon, Review Relevancy, Lots of data, not much information
 
 ## Do I trust your opinion?
 Product and service reviews can sometimes be confusing.  Do you have any particularly discriminating friends?  When they tell you about a restaurant or a product, do you always temper their reaction – wondering if the oak overtones in their wine would actually ruin a meal?  On the other hand, do you have incredibly positive people in your life who rarely complain?  Are you skeptical of their "amazing, life changing" products?   When heeding the advice of friends and colleagues, a potential buyer has the context to better understand the review based on the person.  The buyer can then predict their own experience with the same product.  However, when reading through the dozens of reviews for popular products online at a major retailer like Amazon, it is easy to get bogged down in information overload with conflicting reviews.  Buying a product, sight unseen, is a risky proposition that consumers mitigate with other's opinions, but buyers wonder who are these reviewers and how much do my needs and opinions overlap with theirs?
