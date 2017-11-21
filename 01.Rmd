@@ -24,6 +24,5 @@ This simple solution to wading through conflicting reviews will help Amazon in s
 1.  Consumers are more likely to buy based on trusted recommendations.  This trust will continue to build over time.      
 2.  Return shipping costs will decrease as discriminating consumers make better decisions using only similarly discriminating reviews.   
 3.  This proposed feature will provide non-monetary incentives for consumers to review products.  If providing feedback means a consumer will be rewarded with better information on their next purchase, they will be more likely to provide thoughtful, honest feedback.  Their resulting reviews can in turn tell Amazon how well the algorithm is performing in a continuous feedback loop.    
-4.  Understanding the customer better can also order the products better, so customers first see the products they are more likely to love based on reviews from other people with similar tastes.    
-5.  This algorithm assumes that people will shift their spending dollars from a product that they wont likely love to a product that they will.  It is important that the Amazon site highlight other products with higher reviews when displaying a product with many negative reviews from "reviewers like the customer".    
+4.  As this algorithm proves to be effective, it can be integrated with some of the product prioritization and alternate offers.  This will help avoid increasingly negative reviews of products from the various clusters determined in the algorithm.   
 
