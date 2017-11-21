@@ -22,14 +22,14 @@ Project Team.  Please respond on a scale of 1 (Strongly Disagree) to 5 (Strongly
 2.  Was the work evenly distributed?            
 3.  Did all team members contribute to the discussion equally?        
 4.  Did you personally feel safe to brainstorm ideas without judgment?         
-5.  Did your team produce a quality product? (scale 1:5)         
+5.  Did your team produce a quality product?         
 6.  Would you want to work with this particular team again?           
  
 
 Individual.  Please respond on a scale of 1 (Strongly Disagree) to 5 (Strongly Agree).          
 1.  Did John Smith contribute equally to the project?         
 2.  Did John Smith have the skills to complete the project?        
-3.  Did John Smith speak more (5) or less (1) than others?  (Score will actually be absolute distance from 3)        
+3.  Did John Smith speak more (5) or less (1) than others?  (Score will actually be the response's absolute distance from 3)        
 4.  Is John Smith a strong communicator?      
 5.  Did John Smith encourage (5) or discourage (0) your leads?          
 6.  Would you like to work with John Smith again?         
