@@ -1,12 +1,11 @@
 # Reviewers Like Me 
-#### Amazon, Review Relevancy
+#### Amazon, Review Relevancy,
 
 ## Do I trust your opinion?
 Product and service reviews can sometimes be confusing.  Do you have any particularly discriminating friends?  When they tell you about a restaurant or a product, do you always temper their reaction – wondering if the oak overtones in their wine would actually ruin a meal?  On the other hand, do you have incredibly positive people in your life who rarely complain?  Are you skeptical of their "amazing, life changing" products?   When heeding the advice of friends and colleagues, a potential buyer has the context to better understand the review based on the person.  The buyer can then predict their own experience with the same product.  However, when reading through the dozens of reviews for popular products online at a major retailer like Amazon, it is easy to get bogged down in information overload with conflicting reviews.  Buying a product, sight unseen, is a risky proposition that consumers mitigate with other's opinions, but buyers wonder who are these reviewers and how much do my needs and opinions overlap with theirs?
 
 ## How do I build trust in your opinion? 
-Amazon currently provides two review options: "All reviews " and "Verified Customer Reviews".  Amazon will provide a new feature with a link called "Reviewers Like Me".  It will help potential consumers who have reviewed Amazon products in the past navigate the confusing world of online reviewers.  
-The "Reviewers Like Me" link will be powered by a new algorithm developed at UC Berkeley's MIDS program.  Amazon will cluster customers who have submitted a significant amount of reviews based on multiple variables for the reviewer and product category.  Some of the variables used in the algorithm will include:       
+Amazon currently provides two review options: "All reviews " and "Verified Customer Reviews".  Amazon will provide a new feature with a link called "Reviewers Like Me".  It will help potential consumers who have reviewed Amazon products in the past navigate the confusing world of online reviewers.  The "Reviewers Like Me" link will be powered by a new algorithm developed at UC Berkeley's MIDS program.  Amazon will cluster customers who have submitted a significant amount of reviews based on multiple variables for the reviewer and product category.  Some of the variables used in the algorithm will include:       
 
 1. Past Orders - Regardless of the reviews posted (if any), past order history can give the algorithm valuable information about a person.  For example, if a person orders many different kinds of outdoor items throughout all seasons and lives in a cold weather climate, their meaning of "warm" might be different from someone in a warmer climate.  Or if they buy the same running shoe every three months, it is likely that this customer is a high mileage runner. 
 2. Demographics that prove to be predictive  
