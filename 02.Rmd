@@ -16,12 +16,12 @@ This Big Idea proposes that the UC Berkeley Data Science program can not only tr
 Here is the list of questions that will be included in the survey:
 
 Project Team.  Please respond on a scale of 1 (Strongly Disagree) to 5 (Strongly Agree).
-#### 1.  Did the team have the adequate skills to complete the project?
-#### 2.  Was the work evenly distributed?
-#### 3.  Did all team members contribute to the discussion equally?
-#### 4.  Did you personally feel safe to brainstorm ideas without judgment?
-#### 5.  Did your team produce a quality product? (scale 1:5)
-#### 6.  Would you want to work with this particular team again?
+* 1.  Did the team have the adequate skills to complete the project?
+* 2.  Was the work evenly distributed?
+* 3.  Did all team members contribute to the discussion equally?
+* 4.  Did you personally feel safe to brainstorm ideas without judgment?
+* 5.  Did your team produce a quality product? (scale 1:5)
+* 6.  Would you want to work with this particular team again?
 
 
 Individual.  Please respond on a scale of 1 (Strongly Disagree) to 5 (Strongly Agree).
