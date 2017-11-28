@@ -15,7 +15,7 @@ library(magrittr)
 # Welcome!
 
 <!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Hello World!',fig.align='center',out.width='50%'}
+```{r hello-world,echo=FALSE,fig.cap='Perceptions are Important!',fig.align='center',out.width='50%'}
 knitr::include_graphics('img/lee-atwater-politician-perception-is.jpg')
 ```
 
@@ -24,7 +24,7 @@ These big ideas revolve around people's perceptions of goods/services and teamma
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
-```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
+```{r hello-benji,echo=FALSE,fig.cap='Reviewers Like Me Stump Speech!',fig.align='center'}
 knitr::include_url('https://drive.google.com/drive/u/1/folders/1MtNfzLWhnB3GdRUUJVPzD_BB2K1Lswit')
 ```
 
