@@ -1,4 +1,4 @@
-# "Aristotle Applied" 
+# Aristotle Applied 
 ## Keywords
 Team Work
 Feedback
@@ -9,7 +9,7 @@ Survey
 
 Employees today can expect to be a part of dozens of teams over their career.  What makes a team effective?  Skills?  Work Ethic?  Interpersonal skills?  As the world becomes increasingly connected, face to face communication decreases and the ability to perceive non-verbal ques becomes more challenging.  Peers are often the best sources of feedback for employees, but it is sometimes challenging to offer candid feedback to a peer that you must continue working with and may even genuinely like.  For example, take Mike, a senior engineer at google.  Mike was very friendly and well-liked.  However, in a team setting, he took over the conversation and "everyone was scared to disagree with him."  Mike was blissfully unaware of this area for his career development until his manager asked the team to submit anonymous peer feedback.  The feedback was compiled and provided to the team, and Mike had to struggle with understanding that "None of us is as smart as all of us"(Ken Blanchard) and work to address it.  With coaching and additional feedback loops, Mike came to understand the importance of listening and drawing out other team members.  After modifying his communication skills, Mike became a more effective employee, was happier in his job, and his team produced higher quality work.
 
-## "Aristotle Applied" to the Rescue!
+## Aristotle Applied to the Rescue!
 
 This Big Idea proposes that the UC Berkeley Data Science program can not only transform students into data scientists, but also make them more effective team members by leveraging the "Aristotle Applied" pilot.  Project Aristotle was an internal Google initiative to discover the secret sauce of consistently high performing teams.  The Project Aristotle team discovered that while teams can take on many shapes and sizes and skill levels, consistently high performance teams worked well together because they encouraged everyone to take part in the coversation and understood how to read each other.  With these two tendancies, individuals contribute equally in their own unique ways; thus elevating the collective intelligence of the group.
 
