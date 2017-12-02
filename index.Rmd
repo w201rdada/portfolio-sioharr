@@ -12,7 +12,7 @@ library(magrittr)
 ```
 
 
-# Welcome!{-}
+# Welcome! {-}
 
 <!-- You can include images saved within your repo... -->
 ```{r hello-world,echo=FALSE,fig.cap='Perceptions are Important!',fig.align='center',out.width='50%'}
@@ -28,16 +28,16 @@ These big ideas revolve around people's perceptions of goods/services and teamma
 knitr::include_url('https://drive.google.com/file/d/19ejlZo8lSa1jt_PN3Iauj_r7SYN05W4E/preview')
 ```
 
-### Reviewers Like Me{-}
+### Reviewers Like Me {-#abstract1}
 
 Amazon has collected billions of product reviews which are often in conflict and confusing.  This big idea will provide customers the ability to see reviews only of customers with preferences similar to their own.  Read on to discover how the data science will help customers make wiser purchases.
 
-### Aristotle Applied{-}
+### Aristotle Applied {-#abstract2}
 
 Researchers at Google set out to figure out the magic of a high performance team through the "Project Aristotle" initiative. They analyzed hundreds of variables among team members everything from seniority level to lunch habits.  Read on to discover how what Google discovered and how it can be applied to help students form higher performing teams.
 
 
-### About the author{-}
+### About the author {-}
 
 Siobhan Harrington is a future data scientist with a long background in building large, complicated data warehouses in the products and telecommunications sector.  She hopes these big ideas will solve real-world problems that she experiences everyday.  In her free time, Siobhan can be found running in the German forests, travelling around Europe, or volunteering at her sons' school.  She lives with her husband, Casey and her two sons, Ryan and Alex in Bad Homburg, Germany.
 
