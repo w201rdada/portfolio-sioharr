@@ -1,4 +1,4 @@
-# Reviewers Like Me `{#reviewers-like-me}`
+# Reviewers Like Me {#reviewers-like-me}
 #### Amazon, Review Relevancy, Lots of data, not much information
 
 ## Do I trust your opinion?
